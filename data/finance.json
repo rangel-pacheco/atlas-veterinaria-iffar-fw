@@ -1,0 +1,1424 @@
+{
+  "budgets": [
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "pnpEdition": 2024,
+      "campusEnrollments": 1233,
+      "veterinaryEnrollments": 187,
+      "campusMt": 3205.7804734886804,
+      "veterinaryMt": 627.3324830196738,
+      "veterinaryShare": 0.19568791069994296,
+      "operatingBudget": 3521778.55,
+      "veterinaryAllocation": 689169.4863973745,
+      "perEnrollment": 3685.3983229806126,
+      "status": "C — MT e rateio; A — distribuição do bloco",
+      "components": [
+        {
+          "year": 2025,
+          "name": "AE presencial inicial",
+          "value": 1039685.86,
+          "nature": "Assistência",
+          "aggregationNote": "Parte da AE geral",
+          "stage": "PA inicial",
+          "status": "A",
+          "document": "DPDI3/2025",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 2"
+        },
+        {
+          "year": 2025,
+          "name": "AE EaD inicial",
+          "value": 6260.27,
+          "nature": "Assistência",
+          "aggregationNote": "Parte da AE geral",
+          "stage": "PA inicial",
+          "status": "A",
+          "document": "DPDI3/2025",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 3"
+        },
+        {
+          "year": 2025,
+          "name": "RIP inicial",
+          "value": 857407.5,
+          "nature": "Assistência",
+          "aggregationNote": "Parte da AE geral, não novo bloco",
+          "stage": "PA inicial",
+          "status": "A",
+          "document": "DPDI3/2025",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 4"
+        },
+        {
+          "year": 2025,
+          "name": "AE presencial pós LOA",
+          "value": 988396.39,
+          "nature": "Assistência",
+          "aggregationNote": "Soma com EaD e RIP",
+          "stage": "PA ajustado abril",
+          "status": "A",
+          "document": "DPDI3/2025",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 5"
+        },
+        {
+          "year": 2025,
+          "name": "AE EaD pós LOA",
+          "value": 5951.44,
+          "nature": "Assistência",
+          "aggregationNote": "Soma com presencial e RIP",
+          "stage": "PA ajustado abril",
+          "status": "A",
+          "document": "DPDI3/2025",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 6"
+        },
+        {
+          "year": 2025,
+          "name": "RIP pós LOA",
+          "value": 815110.13,
+          "nature": "Assistência",
+          "aggregationNote": "Parte da AE geral",
+          "stage": "PA ajustado abril",
+          "status": "A",
+          "document": "DPDI3/2025",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 7"
+        },
+        {
+          "year": 2025,
+          "name": "Reserva mínima AE pós LOA",
+          "value": 176088.93,
+          "nature": "Reserva interna Funcionamento",
+          "aggregationNote": "Já contida; não somar ao orçamento",
+          "stage": "PA ajustado abril",
+          "status": "B",
+          "document": "5% de3521778.55",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 8"
+        },
+        {
+          "year": 2025,
+          "name": "Empenho, liquidação e pagamento FW",
+          "value": null,
+          "nature": "Execução",
+          "aggregationNote": "Não inferir pela distribuição",
+          "stage": "ND",
+          "status": "ND",
+          "document": "Solicitar SIAFI/Tesouro UG155570",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 20"
+        }
+      ],
+      "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Comparação dos exercícios · linha 2"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "pnpEdition": 2025,
+      "campusEnrollments": 1249,
+      "veterinaryEnrollments": 224,
+      "campusMt": 3194.977031786625,
+      "veterinaryMt": 697.4788538383382,
+      "veterinaryShare": 0.2183048099874162,
+      "operatingBudget": 3898998.73,
+      "veterinaryAllocation": 851170.176893827,
+      "perEnrollment": 3799.8668611331564,
+      "status": "C — MT e rateio; A — distribuição do bloco",
+      "components": [
+        {
+          "year": 2026,
+          "name": "Funcionamento",
+          "value": 3898998.73,
+          "nature": "20RL",
+          "aggregationNote": "Inclui reservas e GND4",
+          "stage": "PA aprovado",
+          "status": "A",
+          "document": "CADIP E5",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 9"
+        },
+        {
+          "year": 2026,
+          "name": "Adicional interno compensação perdas",
+          "value": 0,
+          "nature": "Funcionamento",
+          "aggregationNote": "Zero observado, já conciliado",
+          "stage": "PA aprovado",
+          "status": "A",
+          "document": "CADIP D5",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 10"
+        },
+        {
+          "year": 2026,
+          "name": "AE regular",
+          "value": 1696940.06,
+          "nature": "2994",
+          "aggregationNote": "Inclui presencial, EaD e RIP sem abertura recuperada",
+          "stage": "PA aprovado",
+          "status": "A",
+          "document": "CADIP F5",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 11"
+        },
+        {
+          "year": 2026,
+          "name": "AE PcD",
+          "value": 100000,
+          "nature": "2994",
+          "aggregationNote": "Soma com regular; dentro do total AE",
+          "stage": "PA aprovado",
+          "status": "A",
+          "document": "CADIP G5",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 12"
+        },
+        {
+          "year": 2026,
+          "name": "Total AE específica",
+          "value": 1796940.06,
+          "nature": "2994",
+          "aggregationNote": "Subtotal: não somar de novo com componentes",
+          "stage": "PA aprovado",
+          "status": "A",
+          "document": "CADIP H5",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 13"
+        },
+        {
+          "year": 2026,
+          "name": "Reserva mínima AE",
+          "value": 194949.94,
+          "nature": "Dentro de20RL",
+          "aggregationNote": "5% já incluídos no Funcionamento",
+          "stage": "PA aprovado",
+          "status": "B",
+          "document": "CADIP G20; plano local D29",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 14"
+        },
+        {
+          "year": 2026,
+          "name": "Complemento alimentação21IV",
+          "value": null,
+          "nature": "Assistência/alimentação",
+          "aggregationNote": "Cerca de240mil; valor exato ND; não lançar como zero",
+          "stage": "Distribuição posterior, sem execução",
+          "status": "ND",
+          "document": "Ata3/2026",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 15"
+        },
+        {
+          "year": 2026,
+          "name": "PNAE",
+          "value": null,
+          "nature": "Alimentação escolar",
+          "aggregationNote": "Dotação/executado de FW não recuperados",
+          "stage": "ND",
+          "status": "ND",
+          "document": "Solicitar extrato UG155570",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 16"
+        },
+        {
+          "year": 2026,
+          "name": "RIP isolado",
+          "value": null,
+          "nature": "Contido na AE regular",
+          "aggregationNote": "Não duplicar nem imputar valor",
+          "stage": "PA aprovado",
+          "status": "ND",
+          "document": "Abertura monetária pendente",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 17"
+        },
+        {
+          "year": 2026,
+          "name": "Qualidade e Eficiência FW",
+          "value": null,
+          "nature": "Institucional",
+          "aggregationNote": "Não atribuir10% do bloco ao campus",
+          "stage": "ND",
+          "status": "ND",
+          "document": "Norma art3§2",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 18"
+        },
+        {
+          "year": 2026,
+          "name": "Reitoria/Direção-Geral FW",
+          "value": null,
+          "nature": "Institucional",
+          "aggregationNote": "Sem rateio interno comprovado para FW",
+          "stage": "ND",
+          "status": "ND",
+          "document": "Norma art3",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 19"
+        },
+        {
+          "year": 2026,
+          "name": "Empenho, liquidação e pagamento FW",
+          "value": null,
+          "nature": "Execução",
+          "aggregationNote": "Não inferir pela distribuição",
+          "stage": "ND",
+          "status": "ND",
+          "document": "Solicitar SIAFI/Tesouro UG155570",
+          "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Blocos e reservas · linha 21"
+        }
+      ],
+      "source": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx · Comparação dos exercícios · linha 3"
+    }
+  ],
+  "shares": [
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Administração",
+      "level": "Bacharelado",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 195,
+      "mechda": 148.85302848077393,
+      "weight": 1,
+      "weightedEnrollment": 148.85302848077393,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 148.85302848077393,
+      "financingFactor": 1,
+      "mt": 148.85302848077393,
+      "campusMt": 3205.7804734886804,
+      "share": 0.04643269547361897,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 163525.6709376734,
+      "perEnrollment": 838.593184295761,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 2"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Ciência da Computação",
+      "level": "Bacharelado",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 125,
+      "mechda": 114.60171421487902,
+      "weight": 1.5,
+      "weightedEnrollment": 171.90257132231852,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 171.90257132231852,
+      "financingFactor": 1,
+      "mt": 171.90257132231852,
+      "campusMt": 3205.7804734886804,
+      "share": 0.05362268962080429,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 188847.2380998562,
+      "perEnrollment": 1510.7779047988495,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 3"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Matemática",
+      "level": "Licenciatura",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 93,
+      "mechda": 87.66727178397026,
+      "weight": 2.5,
+      "weightedEnrollment": 219.16817945992568,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 219.16817945992568,
+      "financingFactor": 1,
+      "mt": 219.16817945992568,
+      "campusMt": 3205.7804734886804,
+      "share": 0.0683665588683983,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 240771.88056003742,
+      "perEnrollment": 2588.944952258467,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 4"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Medicina Veterinária",
+      "level": "Bacharelado",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 187,
+      "mechda": 167.28866213857967,
+      "weight": 2.5,
+      "weightedEnrollment": 418.2216553464492,
+      "bonusRate": 0.5,
+      "bonusMt": 209.1108276732246,
+      "grossMt": 627.3324830196739,
+      "financingFactor": 1,
+      "mt": 627.3324830196739,
+      "campusMt": 3205.7804734886804,
+      "share": 0.19568791069994299,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 689169.4863973747,
+      "perEnrollment": 3685.398322980613,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 5"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Programa Especial de Formação Pedagógica de Docentes",
+      "level": "Licenciatura",
+      "offering": "Não se aplica",
+      "modality": "Educação a Distância",
+      "enrollments": 68,
+      "mechda": 13.655475880052151,
+      "weight": 2.5,
+      "weightedEnrollment": 34.13868970013038,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 34.13868970013038,
+      "financingFactor": 0.8,
+      "mt": 27.310951760104302,
+      "campusMt": 3205.7804734886804,
+      "share": 0.008519283209178465,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 30003.02886745988,
+      "perEnrollment": 441.22101275676295,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 6"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Técnico em Administração",
+      "level": "Técnico",
+      "offering": "Integrado",
+      "modality": "Educação Presencial",
+      "enrollments": 99,
+      "mechda": 124.262121556194,
+      "weight": 1.5,
+      "weightedEnrollment": 186.39318233429103,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 186.39318233429103,
+      "financingFactor": 1,
+      "mt": 186.39318233429103,
+      "campusMt": 3205.7804734886804,
+      "share": 0.05814284037092822,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 204766.20805440904,
+      "perEnrollment": 2068.345535903122,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 7"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Técnico em Agropecuária",
+      "level": "Técnico",
+      "offering": "Integrado",
+      "modality": "Educação Presencial",
+      "enrollments": 287,
+      "mechda": 378.72284930621333,
+      "weight": 2.5,
+      "weightedEnrollment": 946.8071232655334,
+      "bonusRate": 0.5,
+      "bonusMt": 473.4035616327667,
+      "grossMt": 1420.2106848983,
+      "financingFactor": 1,
+      "mt": 1420.2106848983,
+      "campusMt": 3205.7804734886804,
+      "share": 0.4430155765946008,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 1560202.754966747,
+      "perEnrollment": 5436.246532985181,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 8"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Técnico em Agropecuária",
+      "level": "Técnico",
+      "offering": "Subsequente",
+      "modality": "Educação Presencial",
+      "enrollments": 80,
+      "mechda": 55.34945549277946,
+      "weight": 2.5,
+      "weightedEnrollment": 138.37363873194866,
+      "bonusRate": 0.5,
+      "bonusMt": 69.18681936597433,
+      "grossMt": 207.560458097923,
+      "financingFactor": 1,
+      "mt": 207.560458097923,
+      "campusMt": 3205.7804734886804,
+      "share": 0.06474568667892783,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 228019.97055086875,
+      "perEnrollment": 2850.2496318858593,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 9"
+    },
+    {
+      "year": 2025,
+      "baseYear": 2023,
+      "course": "Técnico em Informática",
+      "level": "Técnico",
+      "offering": "Integrado",
+      "modality": "Educação Presencial",
+      "enrollments": 99,
+      "mechda": 131.36595607691356,
+      "weight": 1.5,
+      "weightedEnrollment": 197.04893411537034,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 197.04893411537034,
+      "financingFactor": 1,
+      "mt": 197.04893411537034,
+      "campusMt": 3205.7804734886804,
+      "share": 0.06146675848360024,
+      "operatingBudget": 3521778.55,
+      "estimatedAllocation": 216472.31156557385,
+      "perEnrollment": 2186.589005712867,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 10"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Administração",
+      "level": "Bacharelado",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 165,
+      "mechda": 126.89844664325568,
+      "weight": 1,
+      "weightedEnrollment": 126.89844664325568,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 126.89844664325568,
+      "financingFactor": 1,
+      "mt": 126.89844664325568,
+      "campusMt": 3194.977031786625,
+      "share": 0.03971810920102118,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 154860.8573327829,
+      "perEnrollment": 938.5506505017146,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 11"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Ciência da Computação",
+      "level": "Bacharelado",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 134,
+      "mechda": 123.40351351112717,
+      "weight": 1.5,
+      "weightedEnrollment": 185.10527026669075,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 185.10527026669075,
+      "financingFactor": 1,
+      "mt": 185.10527026669075,
+      "campusMt": 3194.977031786625,
+      "share": 0.05793633832891132,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 225893.70956527555,
+      "perEnrollment": 1685.7739519796683,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 12"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Matemática",
+      "level": "Licenciatura",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 76,
+      "mechda": 66.1278067590695,
+      "weight": 2.5,
+      "weightedEnrollment": 165.31951689767374,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 165.31951689767374,
+      "financingFactor": 1,
+      "mt": 165.31951689767374,
+      "campusMt": 3194.977031786625,
+      "share": 0.0517435697511814,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 201748.1127455227,
+      "perEnrollment": 2654.580430862141,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 13"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Medicina Veterinária",
+      "level": "Bacharelado",
+      "offering": "Não se aplica",
+      "modality": "Educação Presencial",
+      "enrollments": 224,
+      "mechda": 185.99436102355685,
+      "weight": 2.5,
+      "weightedEnrollment": 464.9859025588921,
+      "bonusRate": 0.5,
+      "bonusMt": 232.49295127944606,
+      "grossMt": 697.4788538383383,
+      "financingFactor": 1,
+      "mt": 697.4788538383383,
+      "campusMt": 3194.977031786625,
+      "share": 0.21830480998741622,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 851170.1768938272,
+      "perEnrollment": 3799.866861133157,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 14"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Programa Especial de Formação Pedagógica de Docentes",
+      "level": "Licenciatura",
+      "offering": "Não se aplica",
+      "modality": "Educação a Distância",
+      "enrollments": 46,
+      "mechda": 37.505296610169495,
+      "weight": 2.5,
+      "weightedEnrollment": 93.76324152542372,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 93.76324152542372,
+      "financingFactor": 0.8,
+      "mt": 75.01059322033899,
+      "campusMt": 3194.977031786625,
+      "share": 0.023477662741879936,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 91539.37721395819,
+      "perEnrollment": 1989.986461173004,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 15"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Pós-graduação Lato-sensu em Educação e Práticas  Pedagógicas Contemporâneas",
+      "level": "Especialização (Lato Sensu)",
+      "offering": "Não se aplica",
+      "modality": "Educação a Distância",
+      "enrollments": 40,
+      "mechda": 18,
+      "weight": 1,
+      "weightedEnrollment": 18,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 18,
+      "financingFactor": 0.8,
+      "mt": 14.4,
+      "campusMt": 3194.977031786625,
+      "share": 0.004507074653975696,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 17573.07835186643,
+      "perEnrollment": 439.32695879666073,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 16"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Técnico em Administração",
+      "level": "Técnico",
+      "offering": "Integrado",
+      "modality": "Educação Presencial",
+      "enrollments": 101,
+      "mechda": 123.70129577049508,
+      "weight": 1.5,
+      "weightedEnrollment": 185.55194365574266,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 185.55194365574266,
+      "financingFactor": 1,
+      "mt": 185.55194365574266,
+      "campusMt": 3194.977031786625,
+      "share": 0.05807614321157807,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 226438.808625241,
+      "perEnrollment": 2241.968402230109,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 17"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Técnico em Agropecuária",
+      "level": "Técnico",
+      "offering": "Integrado",
+      "modality": "Educação Presencial",
+      "enrollments": 282,
+      "mechda": 365.5908955522157,
+      "weight": 2.5,
+      "weightedEnrollment": 913.9772388805393,
+      "bonusRate": 0.5,
+      "bonusMt": 456.98861944026964,
+      "grossMt": 1370.965858320809,
+      "financingFactor": 1,
+      "mt": 1370.965858320809,
+      "campusMt": 3194.977031786625,
+      "share": 0.42910037996553846,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 1673061.836528152,
+      "perEnrollment": 5932.843391943801,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 18"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Técnico em Agropecuária",
+      "level": "Técnico",
+      "offering": "Subsequente",
+      "modality": "Educação Presencial",
+      "enrollments": 76,
+      "mechda": 45.206493017598596,
+      "weight": 2.5,
+      "weightedEnrollment": 113.0162325439965,
+      "bonusRate": 0.5,
+      "bonusMt": 56.50811627199825,
+      "grossMt": 169.52434881599476,
+      "financingFactor": 1,
+      "mt": 169.52434881599476,
+      "campusMt": 3194.977031786625,
+      "share": 0.05305964554029895,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 206879.49057587577,
+      "perEnrollment": 2722.0985602088917,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 19"
+    },
+    {
+      "year": 2026,
+      "baseYear": 2024,
+      "course": "Técnico em Informática",
+      "level": "Técnico",
+      "offering": "Integrado",
+      "modality": "Educação Presencial",
+      "enrollments": 105,
+      "mechda": 136.48146675185404,
+      "weight": 1.5,
+      "weightedEnrollment": 204.72220012778106,
+      "bonusRate": 0,
+      "bonusMt": 0,
+      "grossMt": 204.72220012778106,
+      "financingFactor": 1,
+      "mt": 204.72220012778106,
+      "campusMt": 3194.977031786625,
+      "share": 0.06407626661819875,
+      "operatingBudget": 3898998.73,
+      "estimatedAllocation": 249833.2821674983,
+      "perEnrollment": 2379.3645920714125,
+      "status": "C — cálculo com parâmetros condicionais; orçamento A",
+      "source": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx · Participação por curso · linha 20"
+    }
+  ],
+  "comparisons": [
+    {
+      "campus": "Frederico Westphalen",
+      "year": 2026,
+      "baseYear": 2024,
+      "enrollments": 224,
+      "mechda": 185.99436102355685,
+      "weight": 2.5,
+      "bonusRate": 0.5,
+      "mt": 697.4788538383383,
+      "campusMt": 3194.9770317866246,
+      "share": 0.21830480998741628,
+      "confirmedOperatingBudget": 3898998.73,
+      "estimatedAllocation": 851170.1768938274,
+      "perEnrollment": 3799.866861133158,
+      "mtStatus": "C — sem memória homologada",
+      "budgetStatus": "A — Funcionamento comprovado",
+      "exploratoryBudget": null,
+      "source": "COMPARATIVO_FINANCEIRO_VETERINARIA_IFS.xlsx · Comparação financeira · linha 2"
+    },
+    {
+      "campus": "Concórdia",
+      "year": 2026,
+      "baseYear": 2024,
+      "enrollments": 272,
+      "mechda": 225.70070312789636,
+      "weight": 2.5,
+      "bonusRate": 0.5,
+      "mt": 846.3776367296113,
+      "campusMt": 4263.6070629568585,
+      "share": 0.19851211057489876,
+      "confirmedOperatingBudget": null,
+      "estimatedAllocation": 1156206.5998248335,
+      "perEnrollment": 4250.759558179535,
+      "mtStatus": "C — sem memória homologada",
+      "budgetStatus": "C — referência CODIR, composição líquida não homologada",
+      "exploratoryBudget": 5824363.04,
+      "source": "COMPARATIVO_FINANCEIRO_VETERINARIA_IFS.xlsx · Comparação financeira · linha 3"
+    },
+    {
+      "campus": "Araquari",
+      "year": 2026,
+      "baseYear": 2024,
+      "enrollments": 264,
+      "mechda": 218.27506696922666,
+      "weight": 2.5,
+      "bonusRate": 0.5,
+      "mt": 818.5315011345999,
+      "campusMt": 4422.119416813157,
+      "share": 0.18509936615969602,
+      "confirmedOperatingBudget": null,
+      "estimatedAllocation": 1082647.8863272625,
+      "perEnrollment": 4100.9389633608425,
+      "mtStatus": "C — sem memória homologada",
+      "budgetStatus": "C — referência CODIR, composição líquida não homologada",
+      "exploratoryBudget": 5849009.15,
+      "source": "COMPARATIVO_FINANCEIRO_VETERINARIA_IFS.xlsx · Comparação financeira · linha 4"
+    },
+    {
+      "campus": "Muzambinho",
+      "year": 2026,
+      "baseYear": 2024,
+      "enrollments": 248,
+      "mechda": 187.69265646402732,
+      "weight": 2.5,
+      "bonusRate": 0.5,
+      "mt": 703.8474617401024,
+      "campusMt": 11347.143677077907,
+      "share": 0.06202860224304093,
+      "confirmedOperatingBudget": null,
+      "estimatedAllocation": null,
+      "perEnrollment": null,
+      "mtStatus": "C — sem memória homologada",
+      "budgetStatus": "ND",
+      "exploratoryBudget": null,
+      "source": "COMPARATIVO_FINANCEIRO_VETERINARIA_IFS.xlsx · Comparação financeira · linha 5"
+    }
+  ],
+  "simulations": [
+    {
+      "campus": "Concórdia",
+      "year": 2026,
+      "baseYear": 2024,
+      "removedCourse": "Medicina Veterinária",
+      "originalCourseEnrollments": 272,
+      "fwEnrollments": 224,
+      "originalCampusEnrollments": 1378,
+      "simulatedCampusEnrollments": 1330,
+      "originalCourseMt": 846.3776367296113,
+      "fwMt": 697.4788538383383,
+      "originalCampusMt": 4263.6070629568585,
+      "simulatedCampusMt": 4114.708280065585,
+      "originalShare": 0.19851211057489876,
+      "simulatedShare": 0.16950870058453354,
+      "differencePp": -2.9003409990365214,
+      "mtDifference": -148.89878289127296,
+      "relativeMtDifference": -0.034923195475713,
+      "exploratoryBudget": 5824363.04,
+      "originalAllocation": 1156206.5998248335,
+      "simulatedAllocation": 987280.2106429836,
+      "allocationDifference": -168926.3891818499,
+      "perEnrollment": 4407.500940370463,
+      "status": "C — orçamento fixo; mantém demais ofertas; sem ganho efetivo comprovado",
+      "confirmedOperatingBudget": null,
+      "budgetStatus": "ND — não confirmado no perímetro exato do bloco",
+      "source": "SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx · Substituições · linha 2"
+    },
+    {
+      "campus": "Araquari",
+      "year": 2026,
+      "baseYear": 2024,
+      "removedCourse": "Medicina Veterinária",
+      "originalCourseEnrollments": 264,
+      "fwEnrollments": 224,
+      "originalCampusEnrollments": 1829,
+      "simulatedCampusEnrollments": 1789,
+      "originalCourseMt": 818.5315011345999,
+      "fwMt": 697.4788538383383,
+      "originalCampusMt": 4422.119416813157,
+      "simulatedCampusMt": 4301.066769516895,
+      "originalShare": 0.18509936615969602,
+      "simulatedShare": 0.16216415396794237,
+      "differencePp": -2.293521219175365,
+      "mtDifference": -121.05264729626163,
+      "relativeMtDifference": -0.027374350596687275,
+      "exploratoryBudget": 5849009.15,
+      "originalAllocation": 1082647.8863272625,
+      "simulatedAllocation": 948499.6203605038,
+      "allocationDifference": -134148.2659667587,
+      "perEnrollment": 4234.37330518082,
+      "status": "C — orçamento fixo; mantém demais ofertas; sem ganho efetivo comprovado",
+      "confirmedOperatingBudget": null,
+      "budgetStatus": "ND — não confirmado no perímetro exato do bloco",
+      "source": "SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx · Substituições · linha 3"
+    },
+    {
+      "campus": "Muzambinho",
+      "year": 2026,
+      "baseYear": 2024,
+      "removedCourse": "Medicina Veterinária",
+      "originalCourseEnrollments": 248,
+      "fwEnrollments": 224,
+      "originalCampusEnrollments": 11235,
+      "simulatedCampusEnrollments": 11211,
+      "originalCourseMt": 703.8474617401024,
+      "fwMt": 697.4788538383383,
+      "originalCampusMt": 11347.143677077907,
+      "simulatedCampusMt": 11340.775069176143,
+      "originalShare": 0.06202860224304093,
+      "simulatedShare": 0.06150186822186987,
+      "differencePp": -0.05267340211710589,
+      "mtDifference": -6.368607901764108,
+      "relativeMtDifference": -0.0005612520721517945,
+      "exploratoryBudget": null,
+      "originalAllocation": null,
+      "simulatedAllocation": null,
+      "allocationDifference": null,
+      "perEnrollment": null,
+      "status": "C — orçamento fixo; mantém demais ofertas; sem ganho efetivo comprovado",
+      "confirmedOperatingBudget": null,
+      "budgetStatus": "ND — não confirmado no perímetro exato do bloco",
+      "source": "SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx · Substituições · linha 4"
+    },
+    {
+      "campus": "Sertão",
+      "year": 2026,
+      "baseYear": 2024,
+      "removedCourse": "Zootecnia",
+      "originalCourseEnrollments": 123,
+      "fwEnrollments": 224,
+      "originalCampusEnrollments": 2268,
+      "simulatedCampusEnrollments": 2369,
+      "originalCourseMt": 283.9372749877241,
+      "fwMt": 697.4788538383383,
+      "originalCampusMt": 3537.029783586322,
+      "simulatedCampusMt": 3950.5713624369364,
+      "originalShare": 0.08027562456650558,
+      "simulatedShare": 0.17655138709052298,
+      "differencePp": 9.62757625240174,
+      "mtDifference": 413.5415788506142,
+      "relativeMtDifference": 0.1169177542042944,
+      "exploratoryBudget": null,
+      "originalAllocation": null,
+      "simulatedAllocation": null,
+      "allocationDifference": null,
+      "perEnrollment": null,
+      "status": "C — orçamento fixo; mantém demais ofertas; sem ganho efetivo comprovado",
+      "confirmedOperatingBudget": null,
+      "budgetStatus": "ND — não confirmado no perímetro exato do bloco",
+      "source": "SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx · Substituições · linha 5"
+    },
+    {
+      "campus": "Bagé",
+      "year": 2026,
+      "baseYear": 2024,
+      "removedCourse": "Engenharia Agronômica",
+      "originalCourseEnrollments": 158,
+      "fwEnrollments": 224,
+      "originalCampusEnrollments": 9182,
+      "simulatedCampusEnrollments": 9248,
+      "originalCourseMt": 428.57480615098103,
+      "fwMt": 697.4788538383383,
+      "originalCampusMt": 1839.7567534164282,
+      "simulatedCampusMt": 2108.6608011037856,
+      "originalShare": 0.23295188635949707,
+      "simulatedShare": 0.33076863451591676,
+      "differencePp": 9.781674815641969,
+      "mtDifference": 268.90404768735726,
+      "relativeMtDifference": 0.1461628267910975,
+      "exploratoryBudget": null,
+      "originalAllocation": null,
+      "simulatedAllocation": null,
+      "allocationDifference": null,
+      "perEnrollment": null,
+      "status": "C — orçamento fixo; mantém demais ofertas; sem ganho efetivo comprovado",
+      "confirmedOperatingBudget": null,
+      "budgetStatus": "ND — não confirmado no perímetro exato do bloco",
+      "source": "SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx · Substituições · linha 6"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2022,
+      "date": "2022-09-21",
+      "title": "Portaria MEC nº 646/2022",
+      "description": "Publicada em 31/08/2022 e republicada com correção em 21/09/2022. Referência documental da matriz 2025 e do PA 2026 preparado em 2025.",
+      "status": "Referência histórica; revogada em março de 2026",
+      "url": "https://www.audit.cefetmg.br/wp-content/uploads/sites/169/2022/09/MATRIZ-OR%C3%87-PORT-646-25AGO22-SETEC.pdf",
+      "source": "QUADRO_NORMATIVO_2025_2027.docx; síntese da pesquisa fornecida, sem nova consulta externa"
+    },
+    {
+      "year": 2026,
+      "date": "2026-03-12",
+      "title": "Portaria MEC nº 243/2026",
+      "description": "Vigência desde a publicação em 12/03/2026, com revogação expressa da 646. A documentação não comprova recálculo do PA 2026. MOOC a 8% passa a constar expressamente; os blocos institucionais não constituem cotas de cada curso.",
+      "status": "Conclusão da pesquisa documental existente",
+      "url": "https://mecnormas.mec.gov.br/pesquisa/detalhar/8908",
+      "source": "QUADRO_NORMATIVO_2025_2027.docx; síntese da pesquisa fornecida, sem nova consulta externa"
+    },
+    {
+      "year": 2027,
+      "date": "2026-08-14",
+      "title": "Referência orçamentária 2027",
+      "description": "Previsão preliminar publicada: R$ 3.898.999 para FW. A diferença de R$ 0,27 para 2026 é arredondamento. Memória aplicada e participação de Veterinária em 2027 indisponíveis; não se reaplica automaticamente a participação de 2026.",
+      "status": "Previsão, não execução nem distribuição final",
+      "url": "https://www.iffarroupilha.edu.br/ultimas-noticias/item/47787-ploa-2027-prev%C3%AA-manuten%C3%A7%C3%A3o-do-or%C3%A7amento-do-iffar-para-o-pr%C3%B3ximo-ano",
+      "source": "QUADRO_NORMATIVO_2025_2027.docx; síntese da pesquisa fornecida, sem nova consulta externa"
+    }
+  ],
+  "sources": [
+    {
+      "file": "MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx",
+      "relativePath": "AVALIACAO_VETERINARIA_PNP_2018_2025/ENTREGA_FINAL_BASES_VETERINARIA/MATRIZ_ORCAMENTARIA_FW_2025_2026.xlsx",
+      "sha256": "86fff5ab5f7536c36b7b9eb8d67b69a1a0f1977107488a9496f7051353bd77a4",
+      "role": "Pesquisa auditada existente; original preservado"
+    },
+    {
+      "file": "PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx",
+      "relativePath": "AVALIACAO_VETERINARIA_PNP_2018_2025/ENTREGA_FINAL_BASES_VETERINARIA/PARTICIPACAO_ORCAMENTARIA_CURSOS_FW.xlsx",
+      "sha256": "5a57c36038d5f5fde93cddf4e6a35aa00c236c0639d22c157ebae36db40e3889",
+      "role": "Pesquisa auditada existente; original preservado"
+    },
+    {
+      "file": "COMPARATIVO_FINANCEIRO_VETERINARIA_IFS.xlsx",
+      "relativePath": "AVALIACAO_VETERINARIA_PNP_2018_2025/ENTREGA_FINAL_BASES_VETERINARIA/COMPARATIVO_FINANCEIRO_VETERINARIA_IFS.xlsx",
+      "sha256": "b4a833365f60a9a2609781a8653738e7773be6b4b80be0d1d3447e15b98c5945",
+      "role": "Pesquisa auditada existente; original preservado"
+    },
+    {
+      "file": "SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx",
+      "relativePath": "AVALIACAO_VETERINARIA_PNP_2018_2025/ENTREGA_FINAL_BASES_VETERINARIA/SIMULACOES_VETERINARIA_FW_OUTROS_CAMPI.xlsx",
+      "sha256": "601154305ffcc33d205827406e23620eac22f3a28171dccf4c4fd5a18e5e7c82",
+      "role": "Pesquisa auditada existente; original preservado"
+    },
+    {
+      "file": "QUADRO_NORMATIVO_2025_2027.docx",
+      "relativePath": "AVALIACAO_VETERINARIA_PNP_2018_2025/ENTREGA_FINAL_BASES_VETERINARIA/QUADRO_NORMATIVO_2025_2027.docx",
+      "sha256": "dd3c46b0ef00dbf9921d552ea46443ea65b340ae1044796e272d45c2f9b64a3f",
+      "role": "Pesquisa auditada existente; original preservado"
+    }
+  ],
+  "limitations": [
+    "Os rateios são estimativas proporcionais condicionais do Funcionamento. Não representam recursos comprovadamente transferidos à Veterinária nem custo efetivo do curso.",
+    "O exercício 2025 usa ano-base 2023 / PNP 2024; o exercício 2026 usa ano-base 2024 / PNP 2025. Não confundir com o filtro de ano-base acadêmico.",
+    "Funcionamento 2026 inclui reserva de AE e R$ 5.000 em investimento. Não somar essas parcelas novamente nem reaplicar 80%.",
+    "Reitoria/Direção-Geral e Qualidade e Eficiência são blocos institucionais; a parcela de FW e de cada curso está indisponível.",
+    "Os parâmetros de Matrícula Total não têm memória homologada completa. MECHDA, Matrícula Total financeira e matrícula equivalente acadêmica são conceitos distintos.",
+    "Concórdia e Araquari possuem referências CODIR exploratórias sem confirmação do perímetro exato de Funcionamento. Seus rateios não são diretamente equivalentes ao bloco comprovado de FW.",
+    "Muzambinho, Sertão e Bagé não têm referência financeira confirmada nesta base: valores monetários ausentes permanecem null, nunca zero.",
+    "Simulações substituem a oferta indicada pela Veterinária FW e mantêm as demais ofertas e o orçamento fixos. Não demonstram ganho financeiro efetivo.",
+    "A: dado oficial observado; B: cálculo com componentes oficiais e fórmula verificada; C: hipótese ou simulação condicional; ND: indisponível. A classificação é por variável, não por arquivo inteiro.",
+    "MEq acadêmica da PNP não é a MT da distribuição orçamentária. MECHDA é etapa de equalização da matriz e tampouco é a MEq.",
+    "Ano-base 2023 / PNP 2024 / matriz 2025; ano-base 2024 / PNP 2025 / matriz 2026; referência esperada 2025 / PNP 2026 / matriz 2027, pendente de memória aplicada.",
+    "Texto ND e denominadores explícitos. Zero somente quando há observação válida; ausência não equivale a zero.",
+    "Arquivos anteriores e microdados não modificados. Novos produtos independentes nesta pasta; scripts e logs novos permanecem em _TRABALHO_ENTREGA_20261016.",
+    "Principal: PA ajustado pós LOA23/04/2025, R$3521778.55. Inicial R$3694428.56 e PLOA histórico R$3950000 permanecem separados. Atualização final e execução ND.",
+    "Funcionamento da matriz R$3898998.73 inclui reserva AE e R$5000 classificados em investimento no plano local. Não adicionar reserva, não aplicar novamente80%. R$3898999 é arredondamento público.",
+    "FW recebe zero observado de compensação interna. A novidade documental identifica o perímetro de Funcionamento; não homologa as MT reconstruídas.",
+    "Cálculo operacional preservado: FECH=CHM*365/dias/800 para duração>365; nos curtos CHM/800. Texto normativo usa CHC/800 no ramo curto. Divergência identificada, não corrigida sem memória homologada; Bagé tem sensibilidade específica.",
+    "Dias ativos de ciclo vencido: metade do ano; redutor adicional0.5 até três anos e exclusão além do limite, segundo convenção operacional anterior. Aplicar dois fatores de0.5 em situações previstas não é eliminar automaticamente um deles.",
+    "Medicina Veterinária FW PC2.5, agro50% conforme interface institucional preservada. Demais hipóteses estão nos parâmetros por oferta. Técnico Administração Integrado PC1.5 e Especialização PC1 são específicos do cenário FW; não aplicar automaticamente quadro genérico.",
+    "Fração MT financeira curso/campus × referência do bloco Funcionamento. Não mede custo real, orçamento vinculado ao curso ou execução. Reservas contidas não são recursos extras.",
+    "Valores CODIR Araquari5849009.15 e Concórdia5824363.04 são referências exploratórias C. Não são tratados como Bloco Funcionamento líquido homologado. Coluna de rateio exploratório não é valor oficial nem execução.",
+    "Onde o perímetro não está confirmado, o orçamento pertinente é ND para a conclusão homologada. A referência histórica CODIR é mostrada em cenário C separado, conforme pedido de continuidade. Não adicionar AE ou RIP.",
+    "Resíduo146.4505832MT frente ao painel. QTM igual não prova mesmos ciclos/ponderadores. Sem EaD local no recorte, esse mecanismo não explica o resíduo.",
+    "Componentes somados por ciclo; PC e agro variam por oferta e constam no quadro de parâmetros. Quatro cursos de Vet usam hipótese2.5/50% sem estender homologação entre instituições.",
+    "Concórdia, Araquari e Muzambinho: Veterinária local; Sertão: somente Zootecnia; IFSul Bagé: Engenharia Agronômica. Menção IFFar Bagé no pedido corrigida pela identificação institucional dos dados.",
+    "Funcionamento constante no cenário. Valores IFC permanecem exploratórios separados da conclusão homologada; ND em Muzambinho, Sertão e Bagé. Não são inferidos de despesas institucionais.",
+    "Delta MT mede alteração na base ponderada. Não calcular ganho marginal em reais sem pool global, pisos, compensações e regras internas.",
+    "As ofertas hipotéticas conservam os224 vínculos, sete ciclos e características de FW. Não herdam evasão/eficiência dos bacharelados retirados."
+  ],
+  "checks": [
+    {
+      "name": "Fechamento das participações 2025",
+      "passed": true,
+      "detail": "Soma das frações = 1; tolerância 1e-7."
+    },
+    {
+      "name": "Fechamento do rateio 2025",
+      "passed": true,
+      "detail": "Soma dos rateios = Funcionamento; tolerância R$ 0,01."
+    },
+    {
+      "name": "Denominador MT 2025",
+      "passed": true,
+      "detail": "MT financeira dos cursos soma o denominador do campus."
+    },
+    {
+      "name": "Veterinária única 2025",
+      "passed": true,
+      "detail": "Uma oferta de referência por exercício."
+    },
+    {
+      "name": "Rateio Veterinária 2025",
+      "passed": true,
+      "detail": "Proporção sem arredondamento intermediário."
+    },
+    {
+      "name": "Valores do pedido 2025",
+      "passed": true,
+      "detail": "Conferência explícita das referências informadas no pedido."
+    },
+    {
+      "name": "Fechamento das participações 2026",
+      "passed": true,
+      "detail": "Soma das frações = 1; tolerância 1e-7."
+    },
+    {
+      "name": "Fechamento do rateio 2026",
+      "passed": true,
+      "detail": "Soma dos rateios = Funcionamento; tolerância R$ 0,01."
+    },
+    {
+      "name": "Denominador MT 2026",
+      "passed": true,
+      "detail": "MT financeira dos cursos soma o denominador do campus."
+    },
+    {
+      "name": "Veterinária única 2026",
+      "passed": true,
+      "detail": "Uma oferta de referência por exercício."
+    },
+    {
+      "name": "Rateio Veterinária 2026",
+      "passed": true,
+      "detail": "Proporção sem arredondamento intermediário."
+    },
+    {
+      "name": "Valores do pedido 2026",
+      "passed": true,
+      "detail": "Conferência explícita das referências informadas no pedido."
+    },
+    {
+      "name": "Participação 2025 / Administração / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Administração / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Ciência da Computação / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Ciência da Computação / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Matemática / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Matemática / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Medicina Veterinária / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Medicina Veterinária / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Programa Especial de Formação Pedagógica de Docentes / Educação a Distância",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Programa Especial de Formação Pedagógica de Docentes / Educação a Distância",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Técnico em Administração / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Técnico em Administração / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2025 / Técnico em Informática / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2025 / Técnico em Informática / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Administração / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Administração / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Ciência da Computação / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Ciência da Computação / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Matemática / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Matemática / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Medicina Veterinária / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Medicina Veterinária / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Programa Especial de Formação Pedagógica de Docentes / Educação a Distância",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Programa Especial de Formação Pedagógica de Docentes / Educação a Distância",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Pós-graduação Lato-sensu em Educação e Práticas  Pedagógicas Contemporâneas / Educação a Distância",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Pós-graduação Lato-sensu em Educação e Práticas  Pedagógicas Contemporâneas / Educação a Distância",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Técnico em Administração / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Técnico em Administração / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Técnico em Agropecuária / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Participação 2026 / Técnico em Informática / Educação Presencial",
+      "passed": true,
+      "detail": "MT do curso / MT do campus."
+    },
+    {
+      "name": "Rateio 2026 / Técnico em Informática / Educação Presencial",
+      "passed": true,
+      "detail": "Participação × Funcionamento."
+    },
+    {
+      "name": "Duplicidades de ofertas financeiras",
+      "passed": true,
+      "detail": "Chave: exercício, curso, tipo, oferta e modalidade."
+    },
+    {
+      "name": "Comparativo Frederico Westphalen",
+      "passed": true,
+      "detail": "Denominador financeiro compatível."
+    },
+    {
+      "name": "Rateio comparativo Frederico Westphalen",
+      "passed": true,
+      "detail": "Distingue orçamento confirmado de referência exploratória; ND preservado."
+    },
+    {
+      "name": "Comparativo Concórdia",
+      "passed": true,
+      "detail": "Denominador financeiro compatível."
+    },
+    {
+      "name": "Rateio comparativo Concórdia",
+      "passed": true,
+      "detail": "Distingue orçamento confirmado de referência exploratória; ND preservado."
+    },
+    {
+      "name": "Comparativo Araquari",
+      "passed": true,
+      "detail": "Denominador financeiro compatível."
+    },
+    {
+      "name": "Rateio comparativo Araquari",
+      "passed": true,
+      "detail": "Distingue orçamento confirmado de referência exploratória; ND preservado."
+    },
+    {
+      "name": "Comparativo Muzambinho",
+      "passed": true,
+      "detail": "Denominador financeiro compatível."
+    },
+    {
+      "name": "Rateio comparativo Muzambinho",
+      "passed": true,
+      "detail": "Distingue orçamento confirmado de referência exploratória; ND preservado."
+    },
+    {
+      "name": "Substituição MT Concórdia",
+      "passed": true,
+      "detail": "Retira curso original e inclui Veterinária FW, demais ofertas fixas."
+    },
+    {
+      "name": "Participação simulada Concórdia",
+      "passed": true,
+      "detail": "FW / novo denominador."
+    },
+    {
+      "name": "Diferença p.p. Concórdia",
+      "passed": true,
+      "detail": "Diferença em pontos percentuais, não variação relativa."
+    },
+    {
+      "name": "Rateio simulado Concórdia",
+      "passed": true,
+      "detail": "Orçamento fixo exploratório; ausências não viram zero."
+    },
+    {
+      "name": "Substituição MT Araquari",
+      "passed": true,
+      "detail": "Retira curso original e inclui Veterinária FW, demais ofertas fixas."
+    },
+    {
+      "name": "Participação simulada Araquari",
+      "passed": true,
+      "detail": "FW / novo denominador."
+    },
+    {
+      "name": "Diferença p.p. Araquari",
+      "passed": true,
+      "detail": "Diferença em pontos percentuais, não variação relativa."
+    },
+    {
+      "name": "Rateio simulado Araquari",
+      "passed": true,
+      "detail": "Orçamento fixo exploratório; ausências não viram zero."
+    },
+    {
+      "name": "Substituição MT Muzambinho",
+      "passed": true,
+      "detail": "Retira curso original e inclui Veterinária FW, demais ofertas fixas."
+    },
+    {
+      "name": "Participação simulada Muzambinho",
+      "passed": true,
+      "detail": "FW / novo denominador."
+    },
+    {
+      "name": "Diferença p.p. Muzambinho",
+      "passed": true,
+      "detail": "Diferença em pontos percentuais, não variação relativa."
+    },
+    {
+      "name": "Rateio simulado Muzambinho",
+      "passed": true,
+      "detail": "Orçamento fixo exploratório; ausências não viram zero."
+    },
+    {
+      "name": "Substituição MT Sertão",
+      "passed": true,
+      "detail": "Retira curso original e inclui Veterinária FW, demais ofertas fixas."
+    },
+    {
+      "name": "Participação simulada Sertão",
+      "passed": true,
+      "detail": "FW / novo denominador."
+    },
+    {
+      "name": "Diferença p.p. Sertão",
+      "passed": true,
+      "detail": "Diferença em pontos percentuais, não variação relativa."
+    },
+    {
+      "name": "Rateio simulado Sertão",
+      "passed": true,
+      "detail": "Orçamento fixo exploratório; ausências não viram zero."
+    },
+    {
+      "name": "Substituição MT Bagé",
+      "passed": true,
+      "detail": "Retira curso original e inclui Veterinária FW, demais ofertas fixas."
+    },
+    {
+      "name": "Participação simulada Bagé",
+      "passed": true,
+      "detail": "FW / novo denominador."
+    },
+    {
+      "name": "Diferença p.p. Bagé",
+      "passed": true,
+      "detail": "Diferença em pontos percentuais, não variação relativa."
+    },
+    {
+      "name": "Rateio simulado Bagé",
+      "passed": true,
+      "detail": "Orçamento fixo exploratório; ausências não viram zero."
+    }
+  ]
+}

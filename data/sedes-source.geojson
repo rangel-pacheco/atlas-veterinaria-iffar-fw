@@ -1,0 +1,264 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55506699999996,
+          -13.130563999581966
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "RO",
+        "geocodigo_": 1100064,
+        "sede_municipal": "Colorado do Oeste"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.47623099999999,
+          -10.435948999663356
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "RO",
+        "geocodigo_": 1100114,
+        "sede_municipal": "Jaru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.023334999999975,
+          -3.1346909998968004
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "AM",
+        "geocodigo_": 1302603,
+        "sede_municipal": "Manaus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.414448999999934,
+          0.7125549999765654
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "AP",
+        "geocodigo_": 1600535,
+        "sede_municipal": "Porto Grande"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.12350699999996,
+          -5.650585999814832
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "TO",
+        "geocodigo_": 1702208,
+        "sede_municipal": "Araguatins"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.484830999999986,
+          -7.0269629997705465
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "MA",
+        "geocodigo_": 2111607,
+        "sede_municipal": "São Raimundo das Mangabeiras"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.229604999999935,
+          -6.763377999778951
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "PB",
+        "geocodigo_": 2516201,
+        "sede_municipal": "Sousa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.979044999999985,
+          -20.011891999392553
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "MG",
+        "geocodigo_": 3105103,
+        "sede_municipal": "Bambuí"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52680499999997,
+          -21.373012999358952
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "MG",
+        "geocodigo_": 3144102,
+        "sede_municipal": "Muzambinho"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.29350599999998,
+          -16.169855999494697
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "MG",
+        "geocodigo_": 3157005,
+        "sede_municipal": "Salinas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.63031799999994,
+          -19.536269999404645
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "ES",
+        "geocodigo_": 3201506,
+        "sede_municipal": "Colatina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.59899799999994,
+          -19.93771399939446
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "ES",
+        "geocodigo_": 3204609,
+        "sede_municipal": "Santa Teresa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.69270699999999,
+          -26.375951999248386
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "SC",
+        "geocodigo_": 4201307,
+        "sede_municipal": "Araquari"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02397099999996,
+          -27.23365899923159
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "SC",
+        "geocodigo_": 4204301,
+        "sede_municipal": "Concórdia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.40077699999995,
+          -27.358881999229208
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "RS",
+        "geocodigo_": 4308508,
+        "sede_municipal": "Frederico Westphalen"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.20465299999995,
+          -17.459752999459308
+        ],
+        "crs": null
+      },
+      "type": "Feature",
+      "properties": {
+        "uf": "GO",
+        "geocodigo_": 5221809,
+        "sede_municipal": "Urutaí"
+      }
+    }
+  ],
+  "type": "FeatureCollection",
+  "properties": {
+    "exceededTransferLimit": false
+  }
+}
